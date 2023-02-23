@@ -43,11 +43,11 @@ O jogo está sendo desenvolvido pela game engine Godot 4.0 e os sprites estão s
 
 ## 📝 Tasklist
   ### Bard's Adventure v0.1
-  - [ ] Sprites para o personagem
+  - [X] Sprites para o personagem
   - [ ] Sprites para o terreno
-  - [ ] Configuração de câmera
-  - [ ] Movimentação básica
-  - [ ] Colisões básicas
+  - [X] Configuração de câmera
+  - [X] Movimentação básica
+  - [X] Colisões básicas
   - [ ] Cenário básico
 
 ## 🦸 Autor
