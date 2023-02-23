@@ -11,9 +11,19 @@ config_version=5
 [application]
 
 config/name="BardsAdventureGodot"
+run/main_scene="res://scene/level.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=384
+window/size/viewport_height=256
+window/size/window_width_override=1152
+window/size/window_height_override=768
+window/stretch/mode="canvas_items"
 
 [rendering]
 
 renderer/rendering_method="mobile"
+textures/canvas_textures/default_texture_filter=0
