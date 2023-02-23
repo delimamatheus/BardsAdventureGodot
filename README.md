@@ -39,7 +39,7 @@ O jogo está sendo desenvolvido pela game engine Godot 4.0 e os sprites estão s
 * Bard's Adventure v0
   * Iniciando projeto
 
---
+---
 
 ## 📝 Tasklist
   ### Bard's Adventure v0.1
