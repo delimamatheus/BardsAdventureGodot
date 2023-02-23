@@ -14,9 +14,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Tecnologias](#tecnologias)
-   * [Versões](#versões)
-   * [Tasklist](#tasklist)
+   * [Tecnologias](#-tecnologias)
+   * [Versões](#-versões)
+   * [Tasklist](#-tasklist)
 <!--te-->
 
 
@@ -41,7 +41,7 @@ O jogo está sendo desenvolvido pela game engine Godot 4.0 e os sprites estão s
 
 --
 
-## 📝Tasklist
+## 📝 Tasklist
   ### Bard's Adventure v0.1
   - [ ] Sprites para o personagem
   - [ ] Sprites para o terreno
